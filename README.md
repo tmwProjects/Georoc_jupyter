@@ -7,6 +7,10 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/digis-georoc/Georoc_jupyter) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/digis-georoc/Georoc_jupyter?style=social)
 
+
+> ### **Attention**:
+> This repository is for reference only. The original repository can be found at the [DIGIS-GEOROC](https://github.com/digis-georoc/Georoc_jupyter)  organisation. 
+
 ***
 
 <span style="text-align: justify; display: block; max-width: 850px; margin: 0 auto;">
